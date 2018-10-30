@@ -1,3 +1,4 @@
+/*Menu driven program to perform operations till the user enters 'exit'*/
 #include<stdio.h>
 #include<math.h>
 void main()
